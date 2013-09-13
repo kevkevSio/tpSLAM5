@@ -1,5 +1,5 @@
 <?php   // partie Contrôleur du blog
-
+//Commentaire github
 require 'modele.php';
 
 try {
