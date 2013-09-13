@@ -1,5 +1,5 @@
 <?php   // partie Contrôleur du blog
-
+//com test
 require 'modele.php';
 
 try {
